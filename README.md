@@ -1,4 +1,4 @@
-### 
+### Oi! Sou o Yuri! Full-stack em formação com o Front End na mente!
 
   
 
