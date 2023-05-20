@@ -1,4 +1,4 @@
-### Oi!<br> Sou o Yuri,<br> Full-stack em formação com o Front End tinindo na mente!
+### Oi!<br> Sou o Yuri,<br> Full-stack em formação e prática em: JS, HTML, CSS, React
 
   
 
