@@ -1,4 +1,4 @@
-### Oi!<br> Sou o Yuri,<br> Full-stack em formação e prática em: JS, HTML, CSS, React
+### Hi!<br> I am Yuri,<br> Full-stack Web Developer and problem solver!
 
   
 
